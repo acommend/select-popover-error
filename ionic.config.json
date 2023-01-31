@@ -1,0 +1,8 @@
+{
+  "name": "select popover error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "2170382c"
+}
